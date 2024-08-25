@@ -53,7 +53,7 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 ## Login
 
-<img src="[https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG](https://github.com/Zaheerkhan04/electricitybillsystem/blob/main/src/images/backg.jpg)" width="400" height="300">
+<img src="(https://github.com/Zaheerkhan04/electricitybillsystem/blob/main/src/images/backg.jpg)" width="400" height="300">
 
 ## Main Page
 
